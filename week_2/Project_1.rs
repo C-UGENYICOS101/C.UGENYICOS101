@@ -1,7 +1,7 @@
 fn main() {
     let p:f64 = 520_000_000;
     let r:f64 = 10;
-    let n:f64 = 4;
+    let n:f64 = 2;
 
     // Compound Amount
     let a = p * ( 1.0 + (r / 100.0)).powf(n); 
