@@ -23,7 +23,7 @@ fn main() {
     let sum = t1 + t2 + t3 + t4 + t5;
 
     // Average Sales
-    let average = sum / 5.0;
+    let average = sum / 10.0;
 
     println!("Total sales during recession is {}", sum);
     println!("Average sales during recession is {}", average);
