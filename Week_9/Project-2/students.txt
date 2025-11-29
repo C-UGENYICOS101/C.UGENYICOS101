@@ -1,0 +1,7 @@
+PAU SMIS STUDENT RECORDS
+
+Oluchi Nnodi ; ACC10211111 ; Accounting ; Level 300
+Adams Aliyu ; ECO1010101 ; Economics ; Level 200
+Shania Bolade ; CSC1032828 ; Computer ; Level 200
+Adenike Gold ; EEE1020202 ; Electrical ; Level 300
+Blanca Edemoh ; MEE1020201 ; Mechanical ; Level 100
